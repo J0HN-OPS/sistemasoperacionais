@@ -1,6 +1,5 @@
-RESPOSTAS DA ATIVIDADE: PROCESSOS, THREADS E GERENCIAMENTO DE MEMÓRIA (SIMPLIFICADAS)
+RESPOSTAS DA ATIVIDADE: PROCESSOS, THREADS E GERENCIAMENTO DE MEMÓRIA 
 
----
 
 I. Threads e Processos
 
@@ -71,3 +70,4 @@ TLB (Translation Lookaside Buffer) é um cache rápido que armazena traduções 
 
 20. O que é swapping no gerenciamento de memória?
 É o processo de mover temporariamente um processo inteiro (ou parte dele) da memória principal (RAM) para o disco e trazê-lo de volta para liberar espaço na RAM.
+
